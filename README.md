@@ -3,8 +3,7 @@
 
 Hi i am msprogrammer2938 ╰(*°▽°*)╯
 
-[![images](https://user-images.githubusercontent.com/78996423/112989844-96faf980-917a-11eb-8bf2-ad6ac89ac9b9.png)](https://github.com/msprogrammer2938)[github](https://github.com/msprogrammer2938)
-
+[![msprogrammer2938_wallper_3](https://user-images.githubusercontent.com/78996423/119706736-97103080-be6f-11eb-8165-93a3f5cf921b.jpg)](https://github.com/msprogrammer2938)
 
 I am a programmer 
 
