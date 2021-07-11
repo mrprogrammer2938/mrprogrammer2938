@@ -20,6 +20,10 @@ I am currently the leader of the Black-Team
 |/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|
 ```
 
+##### Black-Tool version 2.0.0 was placed on the github site
+[Black-Tool](https://github.com/Black-Tool/Black-Tool)
+
+
 ## Web
 [Black-Team](https://60d8dc3633fbe.mywebzi.ir/)
 
