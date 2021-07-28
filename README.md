@@ -20,7 +20,7 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 |/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|
 ```
 
-##### Black-Tool version 2.1.4 was placed on the github site
+##### Black-Tool version 2.2.4 was placed on the github site
 [Black-Tool](https://github.com/Black-Tool/Black-Tool)
 
 
@@ -43,4 +43,9 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 **You can Communication me at Gmail Address:** ༼ つ ◕_◕ ༽つ 
 ```
 mrprogrammer2938@gmail.com
+gg1504722@gmail.com
+blackteam2938@gmail.com
+programmerhacker6@gmail.com
 ```
+<br>
+
