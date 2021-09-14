@@ -3,11 +3,11 @@
 
 Hi i am Sina Meysami <img src="https://github.com/mrprogrammer2938/mrprogrammer2938/blob/master/hack_gif.gif" width="50">
 
-🐍
+
 [![Programmer_Pictures_3](https://user-images.githubusercontent.com/78996423/123982498-55c3f100-d9d8-11eb-964a-66a518614f20.png)](https://github.com/mrprogrammer2938)
 
 
-I am a programmer 
+I am a programmer 🐍
 
 I write programs in the field of hacking and security
 
