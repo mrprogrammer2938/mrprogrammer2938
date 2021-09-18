@@ -45,8 +45,5 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 ```
 mrprogrammer2938@gmail.com
 gg1504722@gmail.com
-blackteam2938@gmail.com
-programmerhacker6@gmail.com
 ```
 <br>
-
