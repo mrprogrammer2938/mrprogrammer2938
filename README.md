@@ -24,7 +24,7 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 
 
 ## Web
-[Black-Software](https://6154caba5f7b2.mywebzi)
+[Black-Software](https://6154caba5f7b2.mywebzi.ir/)
 
 ## My Communication...
 [Instagram](https://instagram.com/programmer2938)
