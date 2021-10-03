@@ -29,8 +29,9 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 
 
 ## Web
-
-[Black Team](https://60d8dc3633fbe.mywebzi.ir)
+<!-- 
+Web
+-->
 
 
 ## My Communication...
