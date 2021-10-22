@@ -32,6 +32,8 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 [Pinterest](https://www.pinterest.com/mrprogrammer2938)
 
 [Gitlab](https://gitlab.com/mrprogrammer2939)
+
+##### [Github-Gist](https://gist.github.com/mrprogrammer2938)
 <br>
 
 **You can Communication me at Gmail Address:** ༼ つ ◕_◕ ༽つ 
