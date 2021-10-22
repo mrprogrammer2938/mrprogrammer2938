@@ -26,19 +26,27 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 ## Web
 [Black-Software](https://6154caba5f7b2.mywebzi.ir/)
 
+
 ## My Communication...
-[Instagram](https://instagram.com/programmer2938)
+
+#### [Github-Gist](https://gist.github.com/mrprogrammer2938)
+
+[Instagram](https://instagram.com/black_software_company)
 
 [Pinterest](https://www.pinterest.com/mrprogrammer2938)
 
 [Gitlab](https://gitlab.com/mrprogrammer2939)
-
-##### [Github-Gist](https://gist.github.com/mrprogrammer2938)
-<br>
 
 **You can Communication me at Gmail Address:** ༼ つ ◕_◕ ༽つ 
 ```
 mrprogrammer2938@gmail.com
 gg1504722@gmail.com
 ```
+
+### How To Join Black-Team?
+#### Please email the following address
+``` txt
+blacksoftwarecompany3@gmail.com
+```
 <br>
+
