@@ -49,5 +49,4 @@ gg1504722@gmail.com
 blacksoftwarecompany3@gmail.com
 ```
 <br>
-
-<footer> <h5> © Black-Software </h5> </footer>
+<center> <footer> <h5> © Black-Software </h5> </footer> </center>
