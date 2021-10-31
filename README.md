@@ -16,7 +16,7 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 |/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|
 ```
 
-##### Black-Tool Version 4.0.0 was placed on the github site
+##### Black-Tool Version v4.0.0 was placed on the github site
 [Black-Tool](https://github.com/mrprogrammer2938/Black-Tool)
 
 
@@ -50,3 +50,4 @@ blacksoftwarecompany3@gmail.com
 ```
 <br>
 
+<footer> <h5> © Black-Software </h5> </footer>
