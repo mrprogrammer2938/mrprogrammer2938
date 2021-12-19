@@ -50,4 +50,10 @@ gg1504722@gmail.com
 blacksoftwarecompany3@gmail.com
 ```
 <br>
+
+### If html, css, javascript developer can cooperate with us, send an email from the following address:
+``` txt
+blacksoftwarecompany3@gmail.com
+```
+
 <center> <footer> <h5> © Black-Software </h5> </footer> </center>
