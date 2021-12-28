@@ -3,12 +3,16 @@
 
 Hello My Name Is Sina Meysami <img src="https://github.com/mrprogrammer2938/mrprogrammer2938/blob/master/hack_gif.gif" width="50">
 
+سیلام من سینا میثمی هستم 💻☕
+
 <!--  سینا میثمی 😃 -->
 
 [![Programmer_Pictures_3](https://user-images.githubusercontent.com/78996423/123982498-55c3f100-d9d8-11eb-964a-66a518614f20.png)](https://github.com/mrprogrammer2938)
 
 #### Team
 I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
+
+من رهبر تیم سیاه هستم 💻
 
 ```
  ____ ____ ____ ____ ____ _________ ____ ____ ____ ____ 
@@ -17,7 +21,7 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 |/__\|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|
 ```
 
-##### Black-Tool Version v4.0.0 was placed on the github site
+##### Black-Tool Version v5.0.0 was placed on the github site
 [Black-Tool](https://github.com/mrprogrammer2938/Black-Tool)
 
 
@@ -48,12 +52,18 @@ gg1504722@gmail.com
 #### Please email the following address
 ``` txt
 blacksoftwarecompany3@gmail.com
+blacksoftwares3@gmail.com
 ```
 <br>
 
 ### If html, css, javascript developer can cooperate with us, send an email from the following address:
+
+
+مسلط هستید ایمیل بزنید html,css,java script اگر به زبان های 
+
 ``` txt
 blacksoftwarecompany3@gmail.com
+blacksoftwares3@gmail.com
 ```
 
 <center> <footer> <h5> © Black-Software </h5> </footer> </center>
