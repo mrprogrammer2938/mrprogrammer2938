@@ -45,6 +45,7 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 **You can Communication me at Gmail Address:** ༼ つ ◕_◕ ༽つ 
 ```
 blacksoftwarecompany3@gmail.com
+sinameysami@gmail.com
 mrprogrammer2938@gmail.com
 gg1504722@gmail.com
 ```
@@ -68,3 +69,4 @@ blacksoftwares3@gmail.com
 ```
 
 <center> <footer> <h5> © Black-Software </h5> </footer> </center>
+<br>
