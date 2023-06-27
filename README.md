@@ -29,7 +29,7 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 
 
 ## Web
-[Black-Software](https://6154caba5f7b2.mywebzi.ir/)
+[Black-Software](https://black-software-com.github.io/.github/)
 
 
 ## My Communication...
