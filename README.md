@@ -42,6 +42,8 @@ I am currently the leader of the [Black-Team](https://60f398cc3c89a.mywebzi.ir)
 
 [Gitlab](https://gitlab.com/mrprogrammer2939)
 
+[Blog](http://sinameysami.blogfa.com/)
+
 **You can Communication me at Gmail Address:** ༼ つ ◕_◕ ༽つ 
 ```
 blacksoftwarecompany3@gmail.com
