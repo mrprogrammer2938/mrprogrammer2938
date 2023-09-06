@@ -52,23 +52,8 @@ mrprogrammer2938@gmail.com
 gg1504722@gmail.com
 ```
 
-### How To Join Black-Team?
-#### Please email the following address
-``` txt
-blacksoftwarecompany3@gmail.com
-blacksoftwares3@gmail.com
-```
 <br>
 
-### If html, css, javascript developer can cooperate with us, send an email from the following address:
-
-
-مسلط هستید ایمیل بزنید html,css,java script اگر به زبان های 
-
-``` txt
-blacksoftwarecompany3@gmail.com
-blacksoftwares3@gmail.com
-```
 
 <center> <footer> <h5> © Black-Software 卐</h5> </footer> </center>
 <br>
