@@ -3,7 +3,7 @@
 
 Hello My Name Is Sina Meysami <img src="https://github.com/mrprogrammer2938/mrprogrammer2938/blob/master/hack_gif.gif" width="50" alt="Matrix Pictures" title="Matrix Pictures">
 
-سیلام من سینا میثمی هستم 💻☕卐
+سیلام من سینا میثمی هستم 💻☕
 
 <!--  سینا میثمی 😃 -->
 
@@ -55,5 +55,5 @@ gg1504722@gmail.com
 <br>
 
 
-<center> <footer> <h5> © Black-Software 卐</h5> </footer> </center>
+<center> <footer> <h5> © Black-Software </h5> </footer> </center>
 <br>
